@@ -7,8 +7,8 @@ For this project, I have decided to use Python with Selenium and Pytest. To run 
    Clone the repository to your local machine:
     ```
     bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/samarth-bajaj/Hudl.git
+   cd Hudl
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended):**
